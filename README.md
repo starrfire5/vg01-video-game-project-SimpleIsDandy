@@ -4,9 +4,9 @@
 
 __System: PC or Mac__
 
-__Target Age__
+__Target Age: 100 - 103 Year Olds__
 
-__Game Genre__
+__Game Genre: RPG__
 
 ### Game Mechanics
 - GM1
@@ -52,4 +52,7 @@ I'm planning to use the following resources to help me make my game.
 
 ### Five Images
 1. ![alt text](https://nation.com.pk/digital_images/large/2018-04-09/the-unicorn-land-1523279289-3839.jpg "Unicorn Land")
-
+2. ![alt=text](https://landofunicorns.weebly.com/uploads/1/3/6/5/13650247/411011924.jpg "Unicorns Touching Horns"]
+3. ![alt-text](https://landofunicorns.weebly.com/uploads/1/3/6/5/13650247/994755325.jpg?169 "Sad Unicorn")
+4. ![alt-text](https://thumbs.gfycat.com/ElasticDefiniteJunco.webp "Tight Pants, Tight Pants, Body Roll")
+5. ![alt-text](http://sf.co.ua/14/03/wallpaper-2427141.jpg "Fantasy Spirit")
